@@ -1,0 +1,4 @@
+notlar
+TODO: readme yaz
+TODO: benchmark tekrar bak
+grep odevi icin ornek dosya

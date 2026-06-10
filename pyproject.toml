@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "turkgrep"
+version = "1.0.0"
+description = "Kod dosyalarinda arama ve degistirme araci - final odevi"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Baris" }]
+
+[project.scripts]
+tg = "turkgrep.cli:main"
+turkgrep = "turkgrep.cli:main"
+tg-gui = "turkgrep.gui:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["turkgrep*"]
