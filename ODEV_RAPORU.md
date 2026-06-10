@@ -1,9 +1,10 @@
 # Final Ödev Raporu
 
 **Ad Soyad:** Baris  
+**Öğrenci No:** 22430070008  
 **Ders:** Sistem Programlama (Görsel Programlama ile ortak ödev)  
 **Konu:** Kod dosyalarında arama ve değiştirme aracı  
-**GitHub:** https://github.com/bariscvk51916-sudo/turkgrep-final
+**GitHub:** https://github.com/bariscevk1/turkgrep-final
 
 ---
 
