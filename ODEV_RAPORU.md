@@ -3,8 +3,7 @@
 **Ad Soyad:** Baris  
 **Ders:** Sistem Programlama (Görsel Programlama ile ortak ödev)  
 **Konu:** Kod dosyalarında arama ve değiştirme aracı  
-**GitHub:** https://github.com/KULLANICI_ADIN/turkgrep-final  
-*(repoyu oluşturduktan sonra bu linki kendi adresinle değiştir)*
+**GitHub:** https://github.com/bariscvk51916-sudo/turkgrep-final
 
 ---
 
